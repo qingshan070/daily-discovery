@@ -1,4 +1,11 @@
-# 每日发现 (Daily Serendipity Engine)
+---
+name: daily-discovery
+description: |
+  每日随机发现引擎：每天随机抽取 10 个方向（5 中文 + 5 英文），从全球互联网精选最值得看的文章/视频链接，
+  帮你打破信息茧房，发现你“还不知道自己想知道”的新信息。
+  当用户提到「每日发现」「随机发现」「来点新鲜的」「surprise me」等时触发。
+---
+# 每日随机发现 (Daily Serendipity Engine)
 
 随机发现你不知道自己想知道的信息——打破信息茧房的意外发现引擎。
 
